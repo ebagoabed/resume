@@ -1,58 +1,43 @@
 {
   "main": {
-    "name": "Shan Shaji",
+    "name": "Ebagoabed",
     "occupation": "Full Stack Developer",
-    "description": "I mostly work with Ruby on Rails and JavaScript",
-    "bio": "End to End Product Developer with immense passion towards Rails and React",
-    "email": "shanshaji@gmail.com",
-    "phone": "929-420-6869",
+    "description": "I mostly work with JavaScript",
+    "bio": "React Developer",
+    "email": "11bc089@skcet.ac.in",
+    "phone": "9894529526",
     "address": {
-      "street": "Brooklyn",
-      "city": "New York",
-      "state": "NY",
-      "zip": "11219"
+      "street": "Coimbatore",
+      "city": "Coimbatore",
+      "state": "Tamilnadu",
+      "zip": "680100"
     },
-    "website": "http://www.github.com/shanshaji",
+    "website": "http://www.github.com/ebagoabed",
     "resumedownload": "../../public/resume.pdf",
     "social": [
       {
         "name": "github",
-        "url": "https://github.com/shanshaji",
+        "url": "https://github.com/ebagoabed",
         "className": "fa fa-github"
       },
       {
-        "name": "stack overflow",
-        "url": "https://stackoverflow.com/users/9563947/shan",
-        "className": "fa fa-stack-overflow"
-      },
-      {
-        "name": "Medium",
-        "url": "https://shanshaji.medium.com/",
-        "className": "fa fa-medium"
-      },
-      {
-        "name": "Itch.io",
-        "url": "https://shanshaji.itch.io/",
-        "className": "fa fa-gamepad"
-      },
-      {
         "name": "facebook",
-        "url": "https://www.facebook.com/shan.shaji1/",
+        "url": "https://www.facebook.com/",
         "className": "fa fa-facebook"
       },
       {
         "name": "twitter",
-        "url": "https://twitter.com/shan9645",
+        "url": "https://twitter.com/",
         "className": "fa fa-twitter"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/shanshaji/",
+        "url": "https://www.linkedin.com/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/shan_chelakkat/",
+        "url": "https://www.instagram.com",
         "className": "fa fa-instagram"
       }
     ]
